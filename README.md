@@ -1,4 +1,6 @@
 # The Truth About America’s Worst Place to Live
+<img src="image.png">
+
 ## Usage
 Access the deployed site on Heroku [here](https://red-lake-county.herokuapp.com/).
 
