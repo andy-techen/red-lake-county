@@ -1,5 +1,6 @@
 # The Truth About America’s Worst Place to Live
 <img src="image.png">
+
 An interactive visualization of the [alleged](https://www.washingtonpost.com/news/wonk/wp/2015/09/03/i-called-this-place-americas-worst-place-to-live-then-i-went-there/) "worst place to live in America".
 
 ## Usage
